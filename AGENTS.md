@@ -83,7 +83,7 @@ stack:
   working_with:
     languages:   ["Python", "SQL", "JavaScript", "TypeScript", "Next.js"]
     backend:     ["FastAPI", "Pydantic", "SQLAlchemy", "Docker & Docker Compose", "Alembic", "pytest", "GitHub Actions", "Redis", "JWT authentication & OAuth2", "NGINX", "Gunicorn", "cloud deployment"]
-    databases:   ["PostgreSQL"]
+    databases:   ["PostgreSQL", "Supabase", "Vector databases (pgvector)"]
     tools:       ["Git", "GitHub", "Linux", "REST API Design", "AI coding agents"]
 
   learning:
@@ -135,7 +135,7 @@ currently_learning: "AI agents, RAG pipelines, system architecture, and system d
 
 ### Working With (proven in projects — use in main stack)
 - Python · SQL · JavaScript · TypeScript · Next.js
-- FastAPI · Pydantic · SQLAlchemy · PostgreSQL
+- FastAPI · Pydantic · SQLAlchemy · PostgreSQL · Supabase · Vector databases (pgvector)
 - Docker & Docker Compose · Alembic · pytest · GitHub Actions
 - Redis · JWT / OAuth2 · NGINX · Gunicorn · Cloud deployment (VPS/Railway/Render)
 - REST API Design · Git · GitHub · Linux · AI coding agents
@@ -145,7 +145,7 @@ currently_learning: "AI agents, RAG pipelines, system architecture, and system d
 - Scalability patterns (caching, load balancing, message queues) · Database scaling & sharding · Automation
 
 ### On the Roadmap (DO NOT add to profile yet — not built with yet)
-- pgvector · LLM APIs · MCP servers
+- LLM APIs · MCP servers
 - Background queues (Celery/ARQ) · Observability · K8s
 
 ---

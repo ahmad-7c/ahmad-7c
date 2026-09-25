@@ -19,7 +19,7 @@
 | --- | --- |
 | **Languages** | `Python`, `SQL`, `JavaScript`, `TypeScript`, `Next.js` |
 | **Backend** | `FastAPI`, `Pydantic`, `SQLAlchemy`, `Docker & Docker Compose`, `Alembic`, `pytest`, `GitHub Actions`, `Redis`, `JWT authentication & OAuth2`, `NGINX`, `Gunicorn`, `cloud deployment` |
-| **Databases** | `PostgreSQL` |
+| **Databases** | `PostgreSQL`, `Supabase`, `Vector databases (pgvector)` |
 | **Tools** | `Git`, `GitHub`, `Linux`, `REST API Design`, `AI coding agents` |
 | **Currently learning** | `AI Agents`, `RAG systems and pipelines`, `System architecture`, `System design`, `Scalability patterns`, `Caching & load balancing`, `Message queues`, `Database scaling`, `Automation` |
 
