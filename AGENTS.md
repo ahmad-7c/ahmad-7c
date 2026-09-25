@@ -249,19 +249,21 @@ Follow the exact structure below. Map every field.
 
 **{headline}** · {working_with.languages joined by " · "} · {working_with.backend[0]}
 
-{bio — verbatim from Section 1}
+> {bio — verbatim from Section 1}
 
-{location} · Open to {open_to}
+**{location}** · Open to {open_to}
 
 ---
 
 ## Tech Stack
 
-**Languages:** {working_with.languages as comma list}
-**Backend:** {working_with.backend as comma list}
-**Databases:** {working_with.databases as comma list}
-**Tools:** {working_with.tools as comma list}
-**Currently learning:** {learning as comma list}
+| Category | Skills |
+| --- | --- |
+| **Languages** | {working_with.languages as inline code list} |
+| **Backend** | {working_with.backend as inline code list} |
+| **Databases** | {working_with.databases as inline code list} |
+| **Tools** | {working_with.tools as inline code list} |
+| **Currently learning** | {learning as inline code list} |
 
 ---
 
