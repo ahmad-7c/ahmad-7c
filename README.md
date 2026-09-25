@@ -2,6 +2,9 @@
 
 **Backend Engineer** · Python · SQL · JavaScript · TypeScript · FastAPI
 
+![Backend Engineer](https://img.shields.io/badge/Backend_Engineer-1E293B?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI_Agents-6366F1?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-0284C7?style=flat-square) ![Open to work](https://img.shields.io/badge/Open_to_work-16A34A?style=flat-square)
+
 > I build backend systems with Python, FastAPI, and PostgreSQL, grounded in clean architecture, testing, and production reliability.
 > My current focus is RAG projects, AI agents, and automation — building retrieval pipelines and agent workflows that solve real problems end to end.
 > I'm also studying system design, so scale, caching, and failure recovery are part of how I design from the start.
@@ -53,4 +56,4 @@ _Status: In active development_
 
 ## Connect
 
-Fastest way to reach me: [LinkedIn](https://www.linkedin.com/in/ahmed-ali-0a91a7420) · [Email](mailto:ahmedaalii811@gmail.com)
+Fastest way to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ahmed-ali-0a91a7420) [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:ahmedaalii811@gmail.com)

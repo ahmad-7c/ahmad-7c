@@ -168,6 +168,9 @@ These rules apply to every task you execute. Breaking any of them is an error.
 6. **Plain Markdown only.** No raw HTML in README files.
 7. **No decorative bloat.** No GitHub stats cards, streak counters, trophies,
    visitor counters, typing SVGs, snake animations, or confetti GIFs.
+   Shields.io badge rows are the only allowed colour: one identity row, one focus
+   row, and Connect buttons — all `flat-square`, all hex backgrounds (theme-safe).
+   No inline `style` attributes anywhere (GitHub strips them, so they do nothing).
 8. **Minimal emoji.** At most 2 emoji in the entire profile README, or zero.
    Emoji are never used in project READMEs.
 9. **Consistent dark/light rendering.** Use only standard Markdown; avoid
@@ -249,6 +252,9 @@ Follow the exact structure below. Map every field.
 
 **{headline}** · {working_with.languages joined by " · "} · {working_with.backend[0]}
 
+![Backend Engineer](https://img.shields.io/badge/Backend_Engineer-1E293B?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI_Agents-6366F1?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-0284C7?style=flat-square) ![Open to work](https://img.shields.io/badge/Open_to_work-16A34A?style=flat-square)
+
 > {bio — verbatim from Section 1}
 
 **{location}** · Open to {open_to}
@@ -303,7 +309,7 @@ Follow the exact structure below. Map every field.
 
 ## Connect
 
-Fastest way to reach me: [LinkedIn]({linkedin_url}){if email: · [Email](mailto:{email})}{if portfolio_url: · [Portfolio]({portfolio_url})}
+Fastest way to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)]({linkedin_url}){if email:  [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:{email})}{if portfolio_url: · [Portfolio]({portfolio_url})}
 ```
 
 **Rendering rules:**
@@ -584,7 +590,7 @@ Run this after Task 2 and Task 3. Fix all FAILs before printing the final file.
 
 ```
 LINKS
-□ Every URL in the file came from Section 1 — no constructed or guessed URLs
+□ Every profile URL in the file came from Section 1 — no constructed or guessed profile links (shields.io badge asset URLs are agent-generated and exempt)
 □ No URL contains YOUR_USERNAME, YOUR_HANDLE, or any other unfilled placeholder
 □ LinkedIn URL is valid format (https://linkedin.com/in/handle)
 
