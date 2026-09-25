@@ -72,6 +72,7 @@ how_i_work:
   - "**Clean architecture** — structure decided early, so features don't pile up on guesswork"
   - "**Automated tests** — GitHub Actions runs the suite on every push, not my memory"
   - "**Reproducible delivery** — Docker, Alembic migrations, and CI in place from day one"
+  - "**AI-assisted development** — I work efficiently with coding agents, with tests and CI as the safety net"
 
 # ── TECH STACK ────────────────────────────────────────────────────────────────
 # "working_with" = can answer 3 interview questions about it right now.
@@ -83,14 +84,15 @@ stack:
     languages:   ["Python", "SQL", "JavaScript", "TypeScript", "Next.js"]
     backend:     ["FastAPI", "Pydantic", "SQLAlchemy", "Docker & Docker Compose", "Alembic", "pytest", "GitHub Actions", "Redis", "JWT authentication & OAuth2", "NGINX", "Gunicorn", "cloud deployment"]
     databases:   ["PostgreSQL"]
-    tools:       ["Git", "GitHub", "Linux", "REST API Design"]
+    tools:       ["Git", "GitHub", "Linux", "REST API Design", "AI coding agents"]
 
   learning:
+    - "AI Agents"
+    - "RAG systems and pipelines"
+    - "System architecture"
     - "System design"
     - "Scalability patterns: caching, load balancing, message queues"
     - "Database scaling & sharding"
-    - "RAG"
-    - "AI Agents"
     - "Automation"
 
 # ── PROJECTS ──────────────────────────────────────────────────────────────────
@@ -121,7 +123,7 @@ projects:
 
 # ── CURRENT FOCUS ─────────────────────────────────────────────────────────────
 currently_building: "RAG systems and AI agents that automate real backend workflows"
-currently_learning: "System design — caching, load balancing, message queues, and database scaling"
+currently_learning: "AI agents, RAG pipelines, system architecture, and system design — caching, load balancing, and message queues"
 ```
 
 ---
@@ -136,11 +138,11 @@ currently_learning: "System design — caching, load balancing, message queues, 
 - FastAPI · Pydantic · SQLAlchemy · PostgreSQL
 - Docker & Docker Compose · Alembic · pytest · GitHub Actions
 - Redis · JWT / OAuth2 · NGINX · Gunicorn · Cloud deployment (VPS/Railway/Render)
-- REST API Design · Git · GitHub · Linux
+- REST API Design · Git · GitHub · Linux · AI coding agents
 
 ### Currently Learning (honest growth signal — keep separate)
-- System design · scalability patterns (caching, load balancing, message queues)
-- Database scaling & sharding · RAG · AI Agents · Automation
+- AI Agents · RAG systems and pipelines · System architecture · System design
+- Scalability patterns (caching, load balancing, message queues) · Database scaling & sharding · Automation
 
 ### On the Roadmap (DO NOT add to profile yet — not built with yet)
 - pgvector · LLM APIs · MCP servers
@@ -253,7 +255,7 @@ Follow the exact structure below. Map every field.
 **{headline}** · {working_with.languages joined by " · "} · {working_with.backend[0]}
 
 ![Backend Engineer](https://img.shields.io/badge/Backend_Engineer-1E293B?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI_Agents-6366F1?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-0284C7?style=flat-square) ![Open to work](https://img.shields.io/badge/Open_to_work-16A34A?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6366F1?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-0284C7?style=flat-square) ![Open to work](https://img.shields.io/badge/Open_to_work-16A34A?style=flat-square)
 
 > {bio — verbatim from Section 1}
 

@@ -3,7 +3,7 @@
 **Backend Engineer** · Python · SQL · JavaScript · TypeScript · FastAPI
 
 ![Backend Engineer](https://img.shields.io/badge/Backend_Engineer-1E293B?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI_Agents-6366F1?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-0284C7?style=flat-square) ![Open to work](https://img.shields.io/badge/Open_to_work-16A34A?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6366F1?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-0284C7?style=flat-square) ![Open to work](https://img.shields.io/badge/Open_to_work-16A34A?style=flat-square)
 
 > I build backend systems with Python, FastAPI, and PostgreSQL, grounded in clean architecture, testing, and production reliability.
 > My current focus is RAG projects, AI agents, and automation — building retrieval pipelines and agent workflows that solve real problems end to end.
@@ -20,8 +20,8 @@
 | **Languages** | `Python`, `SQL`, `JavaScript`, `TypeScript`, `Next.js` |
 | **Backend** | `FastAPI`, `Pydantic`, `SQLAlchemy`, `Docker & Docker Compose`, `Alembic`, `pytest`, `GitHub Actions`, `Redis`, `JWT authentication & OAuth2`, `NGINX`, `Gunicorn`, `cloud deployment` |
 | **Databases** | `PostgreSQL` |
-| **Tools** | `Git`, `GitHub`, `Linux`, `REST API Design` |
-| **Currently learning** | `System design`, `Scalability patterns`, `Caching & load balancing`, `Message queues`, `Database scaling`, `RAG`, `AI Agents`, `Automation` |
+| **Tools** | `Git`, `GitHub`, `Linux`, `REST API Design`, `AI coding agents` |
+| **Currently learning** | `AI Agents`, `RAG systems and pipelines`, `System architecture`, `System design`, `Scalability patterns`, `Caching & load balancing`, `Message queues`, `Database scaling`, `Automation` |
 
 ---
 
@@ -42,7 +42,7 @@ _Status: In active development_
 ## Currently
 
 🔨 Building: RAG systems and AI agents that automate real backend workflows
-📖 Learning: System design — caching, load balancing, message queues, and database scaling
+📖 Learning: AI agents, RAG pipelines, system architecture, and system design — caching, load balancing, and message queues
 
 ---
 
@@ -51,6 +51,7 @@ _Status: In active development_
 - **Clean architecture** — structure decided early, so features don't pile up on guesswork
 - **Automated tests** — GitHub Actions runs the suite on every push, not my memory
 - **Reproducible delivery** — Docker, Alembic migrations, and CI in place from day one
+- **AI-assisted development** — I work efficiently with coding agents, with tests and CI as the safety net
 
 ---
 
